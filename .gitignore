@@ -30,7 +30,10 @@ userSettings
 UserSettings
 
 # Packages too big for GitHub
-Assets/Barmetler
+Assets/Barmetler/
+assets/Barmetler/
+/assets/Barmetler/
+/Assets/Barmetler/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
