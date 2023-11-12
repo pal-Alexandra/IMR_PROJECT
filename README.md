@@ -32,9 +32,7 @@ https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-and-flo
 
 ## Terrain
 
-In package manager, search Terrain Tools and install it. Also download:
-
-https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
+In package manager, search Terrain Tools and install it.
 
 
 
