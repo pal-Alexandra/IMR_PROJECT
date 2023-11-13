@@ -20,6 +20,10 @@ https://docs.google.com/document/d/1zagxH3FjtOkC4WKB23HbJ0ESiOsqW8_i/edit?usp=dr
 
 https://assetstore.unity.com/packages/tools/level-design/road-system-192818
 
+### XR Interaction Toolkit
+
+In package manager, search XR Interaction Toolkit and install it.
+
 ### Outdoor Ground Textures
 
 https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
