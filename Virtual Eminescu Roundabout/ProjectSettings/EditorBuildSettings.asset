@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Alexandra.unity
+    path: Assets/Scenes/Virtual Eminescu Roundabout.unity
     guid: a89f81aab5c9998418e9dce8da157a08
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 754af9a82d0d898479ea807e1678b359, type: 2}
