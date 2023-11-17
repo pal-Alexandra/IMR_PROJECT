@@ -19,7 +19,14 @@ https://docs.google.com/document/d/1zagxH3FjtOkC4WKB23HbJ0ESiOsqW8_i/edit?usp=dr
 In this week:
 
 😄 we created a Unity Project on Github and started work on our project scene. Also, to work in parallel we used multiple scenes and then merge elements on a main scene
-😄  
+
+😄 we started to work on our Eminescu Roundabout Digital Twin: we created the streets, the roundabout, the sidewalks, we added nature elements as the terrain, flowers, trees, grass and sky
+
+:smile: we gray-box modeled our principal buildings: BCU, Palatul Copiilor, CCS and ISP
+
+:smile: we introduced some assets for our treasure-hunt features: 
+
+
 
 
 
