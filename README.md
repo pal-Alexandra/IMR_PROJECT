@@ -24,6 +24,10 @@ https://assetstore.unity.com/packages/tools/level-design/road-system-192818
 
 https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
 
+### Skybox
+
+https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
+
 ## Nature elements
 
 https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622#content
