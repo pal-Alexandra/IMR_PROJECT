@@ -14,6 +14,10 @@ https://docs.google.com/document/d/1rEne8sr6C2xZaF7n099P7zNgifMWd9_a/edit?usp=sh
 https://docs.google.com/document/d/1zagxH3FjtOkC4WKB23HbJ0ESiOsqW8_i/edit?usp=drive_link&ouid=109649148439448935787&rtpof=true&sd=true  
 
 
+## Progress for week 7
+
+In this week, we created a Unity Project on Github which contains 
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
@@ -37,6 +41,24 @@ https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-and-flo
 ## Terrain
 
 In package manager, search Terrain Tools and install it.
+
+## Treasure Hunt Assets
+
+stars:
+https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333
+https://assetstore.unity.com/packages/2d/textures-materials/space-star-field-backgrounds-109689
+https://assetstore.unity.com/packages/audio/music/stars-17497
+https://free3d.com/3d-model/star-v1--893677.html
+
+blue flower:
+https://free3d.com/3d-model/crocus-flower-v1--75899.html
+
+book:
+https://free3d.com/3d-model/book-pack-93349.html
+https://assetstore.unity.com/packages/3d/props/interior/books-3356
+
+quill
+https://free3d.com/3d-model/old-scroll-feather-candle-52927.html
 
 
 
