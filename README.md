@@ -26,7 +26,7 @@ In this week:
 
 :smile: we introduced some assets for our treasure-hunt feature: at the moment a blue-flower 
 
-:smile: progress update video:
+:smile: progress update video: https://www.youtube.com/watch?v=PIWK0LJannw
 
 
 
