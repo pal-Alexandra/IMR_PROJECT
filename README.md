@@ -24,7 +24,7 @@ In this week:
 
 :smile: we gray-box modeled our principal buildings: BCU, Palatul Copiilor, CCS and ISP
 
-:smile: we introduced some assets for our treasure-hunt features: 
+:smile: we introduced some assets for our treasure-hunt feature: at the moment a blue-flower 
 
 
 
