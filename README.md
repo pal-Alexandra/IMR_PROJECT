@@ -16,7 +16,12 @@ https://docs.google.com/document/d/1zagxH3FjtOkC4WKB23HbJ0ESiOsqW8_i/edit?usp=dr
 
 ## Progress for week 7
 
-In this week, we created a Unity Project on Github which contains 
+In this week:
+
+  :star2: we created a Unity Project on Github and started work on our project scene. Also, to work in parallel we used multiple scenes and then merge elements on a main scene
+  :star2: 
+
+
 
 ## Necessary assets to download to use in Unity
 
