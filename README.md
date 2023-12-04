@@ -29,6 +29,15 @@ In this week:
 :smile: progress update video: https://www.youtube.com/watch?v=PIWK0LJannw
 
 
+## Progress for week 9
+
+In this week:
+
+😄 we created a part of UI screens: *How to play*, *Settings*, *Progress* and *BCU* screens
+
+:smile: we added more details on BCU building model
+
+:smile: for the *Treasure hunt* functionality we created 2 scripts which manages the *collected* treasure: after the item is picked up it becomes inactive
 
 
 
