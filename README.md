@@ -40,6 +40,14 @@ In this week:
 :smile: for the *Treasure hunt* functionality we created 2 scripts which manages the *collected* treasure: after the item is picked up it becomes inactive
 
 
+## Progress for Week 10
+
+In this week:
+
+- Added sound effects and vibration when interacting with objects in scene.
+- Built app to VR and now we're testing in VR most changes.
+- Greatly improved BCU appearance.
+
 
 
 ## Necessary assets to download to use in Unity
