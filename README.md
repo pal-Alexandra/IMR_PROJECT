@@ -60,6 +60,8 @@ In this week:
 
 :smile: Changed the hands for the player to the Oculus Quest 3 Controllers
 
+:smile: Started texturing the BCU building
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
