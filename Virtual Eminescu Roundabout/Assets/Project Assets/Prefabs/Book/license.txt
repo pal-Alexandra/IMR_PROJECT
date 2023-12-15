@@ -1,0 +1,11 @@
+Model Information:
+* title:	An Open Book L
+* source:	https://sketchfab.com/3d-models/an-open-book-l-ada8bdd5abfe46fcb6efdf1d585630e0
+* author:	stefanorivera (https://sketchfab.com/stefanorivera)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "An Open Book L" (https://sketchfab.com/3d-models/an-open-book-l-ada8bdd5abfe46fcb6efdf1d585630e0) by stefanorivera (https://sketchfab.com/stefanorivera) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
