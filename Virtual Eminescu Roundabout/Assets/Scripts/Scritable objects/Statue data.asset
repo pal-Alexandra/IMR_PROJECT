@@ -18,3 +18,4 @@ MonoBehaviour:
     veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat.
   buildingImage: {fileID: 21300000, guid: 9abbd15f8341fa44285b1d9b7802d14e, type: 3}
+  buildingURL: https://en.wikipedia.org/wiki/Statue_of_Mihai_Eminescu,_Ia%C8%99i
