@@ -50,7 +50,9 @@ In this week:
 
 :smile: Greatly improved BCU appearance.
 
+:smile: Added Scriptable Objects on the UI elements, so now each building has the same UI template which updates dynamically based on a Scriptable Object
 
+:smile: Reorganized project files into a Project Assets to differentiate imported assets vs our assets (As per teacher's request)
 
 ## Necessary assets to download to use in Unity
 
