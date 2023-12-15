@@ -54,6 +54,14 @@ In this week:
 
 :smile: Reorganized project files into a Project Assets to differentiate imported assets vs our assets (As per teacher's request)
 
+:smile: Added the UI elements in scene, almost done on the game flow
+
+:smile: Added most treasure items, some placeholder in place for now, will replace later.
+
+:smile: Changed the hands for the player to the Oculus Quest 3 Controllers
+
+:smile: Started texturing the BCU building
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
