@@ -29,7 +29,7 @@ public class ScoreboardManager : MonoBehaviour
         }
 
         int totalCount = allTreasures.Count;
-        text = "Collected Treasures: " + collectedCount + " / " + totalCount;
-        print(text);
+/*        text = "Collected Treasures: " + collectedCount + " / " + totalCount;
+        print(text);*/
     }
 }
