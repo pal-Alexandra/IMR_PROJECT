@@ -74,6 +74,10 @@ https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-and-flo
 
 In package manager, search Terrain Tools and install it.
 
+## Sound Effects
+
+https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+
 ## Treasure Hunt Assets
 
 stars:
