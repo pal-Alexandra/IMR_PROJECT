@@ -1,26 +1,26 @@
 # IMR_PROJECT
 
-## Homework for week 5
+## Homework for Lab 5
 
 ### State of the Art doc:
 
 https://docs.google.com/document/d/1rEne8sr6C2xZaF7n099P7zNgifMWd9_a/edit?usp=sharing&ouid=109649148439448935787&rtpof=true&sd=true 
 
 
-## Homework for week 6
+## Homework for Lab 6
 
 ### Main modules:
 
 https://docs.google.com/document/d/1zagxH3FjtOkC4WKB23HbJ0ESiOsqW8_i/edit?usp=drive_link&ouid=109649148439448935787&rtpof=true&sd=true  
 
 
-## Progress for week 7
+## Progress for Lab 7
 
 In this week:
 
-😄 we created a Unity Project on Github and started work on our project scene. Also, to work in parallel we used multiple scenes and then merge elements on a main scene
+:smile: we created a Unity Project on Github and started work on our project scene. Also, to work in parallel we used multiple scenes and then merge elements on a main scene
 
-😄 we started to work on our Eminescu Roundabout Digital Twin: we created the streets, the roundabout, the sidewalks, we added nature elements as the terrain, flowers, trees, grass and sky
+:smile: we started to work on our Eminescu Roundabout Digital Twin: we created the streets, the roundabout, the sidewalks, we added nature elements as the terrain, flowers, trees, grass and sky
 
 :smile: we gray-box modeled our principal buildings: BCU, Palatul Copiilor, CCS and ISP
 
@@ -29,18 +29,18 @@ In this week:
 :smile: progress update video: https://www.youtube.com/watch?v=PIWK0LJannw
 
 
-## Progress for week 9
+## Progress for Lab 9
 
 In this week:
 
-😄 we created a part of UI screens: *How to play*, *Settings*, *Progress* and *BCU* screens
+:smile: we created a part of UI screens: *How to play*, *Settings*, *Progress* and *BCU* screens
 
 :smile: we added more details on BCU building model
 
 :smile: for the *Treasure hunt* functionality we created 2 scripts which manages the *collected* treasure: after the item is picked up it becomes inactive
 
 
-## Progress for week 10
+## Progress for Lab 10
 
 In this week:
 
@@ -61,6 +61,8 @@ In this week:
 :smile: Changed the hands for the player to the Oculus Quest 3 Controllers
 
 :smile: Started texturing the BCU building
+
+:smile: PROGRESS UPDATE VIDEO: https://www.youtube.com/watch?v=l1_ZgtJFMi0
 
 ## Necessary assets to download to use in Unity
 
