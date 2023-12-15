@@ -56,6 +56,10 @@ In this week:
 
 :smile: Added the UI elements in scene, almost done on the game flow
 
+:smile: Added most treasure items, some placeholder in place for now, will replace later.
+
+:smile: Changed the hands for the player to the Oculus Quest 3 Controllers
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
