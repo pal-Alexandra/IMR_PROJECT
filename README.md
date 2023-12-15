@@ -54,6 +54,8 @@ In this week:
 
 :smile: Reorganized project files into a Project Assets to differentiate imported assets vs our assets (As per teacher's request)
 
+:smile: Added the UI elements in scene, almost done on the game flow
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
