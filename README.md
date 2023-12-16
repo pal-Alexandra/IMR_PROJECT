@@ -64,7 +64,7 @@ In this week:
 
 :smile: PROGRESS UPDATE VIDEO: https://www.youtube.com/watch?v=l1_ZgtJFMi0 \[15 December 2023]
 
-:smile: Current BCU appearance: [https://imgur.com/LUyghTV] (Click Here!)
+:smile: Current BCU appearance: [Click Here!](https://imgur.com/LUyghTV) 
 
 ## Necessary assets to download to use in Unity
 
