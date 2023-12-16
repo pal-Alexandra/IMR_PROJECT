@@ -62,7 +62,7 @@ In this week:
 
 :smile: Started texturing the BCU building
 
-:smile: PROGRESS UPDATE VIDEO: https://www.youtube.com/watch?v=l1_ZgtJFMi0
+:smile: PROGRESS UPDATE VIDEO: https://www.youtube.com/watch?v=l1_ZgtJFMi0 \[15 December 2023]
 
 ## Necessary assets to download to use in Unity
 
