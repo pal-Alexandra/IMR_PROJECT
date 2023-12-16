@@ -56,7 +56,7 @@ In this week:
 
 :smile: Added the UI elements in scene, almost done on the game flow
 
-:smile: Added most treasure items, some placeholder in place for now, will replace later.
+:smile: Added most treasure items, some placeholder in place for now, will replace later. We used some models from Sketchfab for these, which we will modify.
 
 :smile: Changed the hands for the player to the Oculus Quest 3 Controllers
 
