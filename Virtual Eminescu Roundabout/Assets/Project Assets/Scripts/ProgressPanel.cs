@@ -20,7 +20,7 @@ public class ProgressPanel : MonoBehaviour
 
     }
 
-    void UpdatePanel(Progress_images progress_images, int flag)
+    public void UpdatePanel(Progress_images progress_images, int flag)
     {
         if (flag == 1) {
 
