@@ -8,7 +8,8 @@ public class TreasurePickupEvent : MonoBehaviour
 
     [SerializeField]
     private AudioClip pickupSound;
-    
+
+
     private void Start()
     {
         XRBaseInteractable interactable = GetComponent<XRBaseInteractable>();

@@ -5,10 +5,10 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "NewProgressImages", menuName = "Progress Images")]
 public class Progress_images : ScriptableObject
 {
-    public Sprite blueFlower;
-    public Sprite tr_2;
-    public Sprite tr_3;
-    public Sprite tr_4;
+    public Sprite blue_flower;
+    public Sprite book;
+    public Sprite bear;
+    public Sprite redbull;
 
 
     public void Print()

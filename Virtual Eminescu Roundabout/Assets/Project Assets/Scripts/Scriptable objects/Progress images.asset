@@ -12,11 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 949e064fddbc1b64dbd000d2a62d9bce, type: 3}
   m_Name: Progress images
   m_EditorClassIdentifier: 
-  blueFlower: {fileID: 21300000, guid: d00947ec7ff963c49b28ee3b7e4b9ce0, type: 3}
-  blueFlower_bw: {fileID: 21300000, guid: bb451fa85c80548448d84fdc3d83c371, type: 3}
-  tr_2: {fileID: 21300000, guid: 8d336f7545a14144eb1fa9a17a16bf76, type: 3}
-  tr_2_bw: {fileID: 21300000, guid: 6b88c5337fd6892439527fe62c52e6f4, type: 3}
-  tr_3: {fileID: 21300000, guid: 903d9e6abde34444bbd3ca3c1b7acbf0, type: 3}
-  tr_3_bw: {fileID: 21300000, guid: abbeee677b81bc44ba17145478c60e17, type: 3}
-  tr_4: {fileID: 21300000, guid: 042b227a9f4addf488857cbf76b48d7c, type: 3}
-  tr_4_bw: {fileID: 21300000, guid: 28217bb0e9faf084cb7e4e25d406fc27, type: 3}
+  blue_flower: {fileID: 0}
+  book: {fileID: 0}
+  bear: {fileID: 0}
+  redbull: {fileID: 0}

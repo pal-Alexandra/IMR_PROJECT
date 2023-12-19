@@ -7,16 +7,16 @@ public class ProgressPanel : MonoBehaviour
 {
 
     private Image blue_flower_image;
-    private Image tr_2_image;
-    private Image tr_3_image;
-    private Image tr_4_image;
+    private Image book_image;
+    private Image bear_image;
+    private Image redbull_image;
 
     void Start()
     {
         blue_flower_image = transform.Find("Treasure_hunt_1").GetComponentInChildren<Image>();
-        tr_2_image = transform.Find("Treasure_hunt_2").GetComponentInChildren<Image>();
-        tr_3_image = transform.Find("Treasure_hunt_3").GetComponentInChildren<Image>();
-        tr_4_image = transform.Find("Treasure_hunt_4").GetComponentInChildren<Image>();
+        book_image = transform.Find("Treasure_hunt_2").GetComponentInChildren<Image>();
+        bear_image = transform.Find("Treasure_hunt_3").GetComponentInChildren<Image>();
+        redbull_image = transform.Find("Treasure_hunt_4").GetComponentInChildren<Image>();
 
     }
 
@@ -24,18 +24,18 @@ public class ProgressPanel : MonoBehaviour
     {
         if (flag == 1) {
 
-            blue_flower_image.sprite = progress_images.blueFlower;
+            blue_flower_image.sprite = progress_images.blue_flower;
 
         }else if (flag == 2)
         {
-            tr_2_image.sprite = progress_images.tr_2;
+            book_image.sprite = progress_images.book;
         }else if (flag == 3)
         {
-            tr_3_image.sprite = progress_images.tr_3;
+            bear_image.sprite = progress_images.bear;
         }
         else
         {
-            tr_4_image.sprite = progress_images.tr_4;
+            redbull_image.sprite = progress_images.redbull;
         }
 
 
