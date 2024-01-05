@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949e064fddbc1b64dbd000d2a62d9bce, type: 3}
+  m_Name: ProgressImages
+  m_EditorClassIdentifier: 
+  blue_flower: {fileID: 21300000, guid: d00947ec7ff963c49b28ee3b7e4b9ce0, type: 3}
+  book: {fileID: 21300000, guid: 5e466a751cc814f4ea64ab30dfda0689, type: 3}
+  bear: {fileID: 21300000, guid: 8c4a1dcf3afcb7a4ba2c4e5c49556402, type: 3}
+  redbull: {fileID: 21300000, guid: 7d60ac009220a1249be08a7cb0ed209c, type: 3}

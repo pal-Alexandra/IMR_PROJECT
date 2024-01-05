@@ -37,7 +37,7 @@ public class TreasurePickupEvent : MonoBehaviour
     private void OnPickup(SelectEnterEventArgs args)
     {
         PlaySound(pickupSound);
-        // gameObject.SetActive(false);
+        gameObject.SetActive(false);
         Debug.Log("Object picked up");
     }
 
@@ -53,7 +53,7 @@ public class TreasurePickupEvent : MonoBehaviour
 
     private void TriggerHapticFeedback(BaseInteractionEventArgs eventArgs)
     {
-        if(eventArgs.interactorObject is XRBaseControllerInteractor controllerInteractor)
+        if (eventArgs.interactorObject is XRBaseControllerInteractor controllerInteractor)
         {
             TriggerHapticFeedback(controllerInteractor.xrController);
         }
