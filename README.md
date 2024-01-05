@@ -66,6 +66,30 @@ In this week:
 
 :smile: Current BCU appearance: [Click Here!](https://imgur.com/LUyghTV) 
 
+## Progress for Lab 11
+
+In this week:
+
+:smile: Added scriptable object for progress panel to be able to update it dynamically based on the treasure collected 
+
+- When you find a treasure, the black and white image that is on the progress panel, it will then become colored
+
+:smile: On the info panel, we added a base functionality that connects the Info Panel with the Treasure Hunt
+
+- When you find a treasure, the info panel updates using a scriptable object based on the treasure collected. (If you find the Toy Bear -> The info panel updates with info for the Children's Palace building
+
+:smile: Did some improvement on the BCU building texture and fixed a lot of issues with the texture rendering in VR (FIXED ENTIRE BUILDING so it renders properly in VR)
+
+:smile: Attempted to use a 3D Scanning application to 3D scan the statues that would appear in the scene. Here are the results: (Images)
+
+:smile: Added the necessary text for each building and also for the How to play panel. Basically finished the UI, only one left is the Settings panel.
+
+:smile: Started working on the settings panel, basically we have to have separate terrains and skyboxes for each settings. Here's the current settings panel, and for each one we should have a terrain (for seasons) and skyboxes for the different combinations (Summer + Sunny) (Settings panel image)
+
+:smile: Created AI made audio voices which will read the text on each panel when pressing a button for that. [sample audio recording](https://storage.googleapis.com/vocodes-public/media/9/d/f/t/b/9dftbzprq1z7r2hqcv7xggjdpkaydvya/fakeyou_9dftbzprq1z7r2hqcv7xggjdpkaydvya.wav)
+
+:smile: Started adding NPCs which will roam around the scene using a simple AI
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
