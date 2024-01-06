@@ -90,7 +90,7 @@ In this week:
 
 :smile: Started adding NPCs which will roam around the scene using a simple AI
 
-:smile: Statue of Lapusneanu added in scene - Used Polycam for converting from video to object - We tried recording with phone camera, but with bad results, so tried recording using a drone flying around the statue and we got better results. [CLICK HERE FOR DRONE VIDEO](https://www.youtube.com/watch?v=RgTpxKZPw5s) and [CLICK HERE FOR THE GREAT RESULTS OF STATUE SCAN](https://imgur.com/a/S9TkYHk)
+:smile: Statue of Lapusneanu added in scene - Used Polycam for converting from video to object - We tried recording with phone camera, but with bad results, so tried recording using a drone flying around the statue and we got better results. [CLICK HERE FOR DRONE VIDEO](https://www.youtube.com/watch?v=RgTpxKZPw5s) and also you can [CLICK HERE FOR THE GREAT RESULTS OF STATUE SCAN](https://imgur.com/a/S9TkYHk)
 
 ## Necessary assets to download to use in Unity
 
