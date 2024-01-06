@@ -80,7 +80,7 @@ In this week:
 
 :smile: Did some improvement on the BCU building texture and fixed a lot of issues with the texture rendering in VR (FIXED ENTIRE BUILDING so it renders properly in VR)
 
-:smile: Attempted to use a 3D Scanning application to 3D scan the statues that would appear in the scene. Here are the results: (Images)
+:smile: Attempted to use a 3D Scanning application to 3D scan the statues that would appear in the scene. Further down you'll see the better results [Here are the BAD results scanned with PHONE](https://imgur.com/a/fUoH7QA):
 
 :smile: Added the necessary text for each building and also for the How to play panel. Basically finished the UI, only one left is the Settings panel.
 
@@ -89,6 +89,8 @@ In this week:
 :smile: Created AI made audio voices which will read the text on each panel when pressing a button for that. [sample audio recording](https://storage.googleapis.com/vocodes-public/media/9/d/f/t/b/9dftbzprq1z7r2hqcv7xggjdpkaydvya/fakeyou_9dftbzprq1z7r2hqcv7xggjdpkaydvya.wav)
 
 :smile: Started adding NPCs which will roam around the scene using a simple AI
+
+:smile: Statue of Lapusneanu added in scene - Used Polycam for converting from video to object - We tried recording with phone camera, but with bad results, so tried recording using a drone flying around the statue and we got better results. [CLICK HERE FOR DRONE VIDEO](https://www.youtube.com/watch?v=RgTpxKZPw5s) and also you can [CLICK HERE FOR STATUE IMAGES](https://imgur.com/a/S9TkYHk)
 
 ## Necessary assets to download to use in Unity
 
