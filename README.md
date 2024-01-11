@@ -102,6 +102,8 @@ https://assetstore.unity.com/packages/tools/level-design/road-system-192818
 
 https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
 
+https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579
+
 ### Skybox
 
 https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
@@ -112,9 +114,23 @@ https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainb
 
 https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-and-flowers-pack-1-17100?aid=1011ld79j&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker
 
+https://assetstore.unity.com/packages/3d/vegetation/trees/free-english-oak-set-260312 
+
+https://assetstore.unity.com/packages/3d/vegetation/trees/dream-forest-tree-105297 
+
+https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967
+
 ## Terrain
 
 In package manager, search Terrain Tools and install it.
+
+## Ornaments
+
+https://assetstore.unity.com/packages/3d/characters/humanoids/humans/santa-claus-rigged-167437 
+
+https://assetstore.unity.com/packages/3d/characters/low-poly-christmas-pack-santa-claus-181035 
+
+https://assetstore.unity.com/packages/3d/props/pbr-snowmen-251152
 
 ## Sound Effects
 
