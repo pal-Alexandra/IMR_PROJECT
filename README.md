@@ -86,7 +86,7 @@ In this week:
 
 :smile: Started working on the settings panel, basically we have to have separate terrains and skyboxes for each settings. Here's the current settings panel, and for each one we should have a terrain (for seasons) and skyboxes for the different combinations (Summer + Sunny) (Settings panel image)
 
-:smile: Created AI made audio voices which will read the text on each panel when pressing a button for that. [sample audio recording](https://storage.googleapis.com/vocodes-public/media/9/d/f/t/b/9dftbzprq1z7r2hqcv7xggjdpkaydvya/fakeyou_9dftbzprq1z7r2hqcv7xggjdpkaydvya.wav)
+:smile: Created AI made audio voices which will read the text on each panel when pressing a button for that. Here's a sample of the Children's Palace, voice done by ![Mickey Mouse](https://github.com/pal-Alexandra/IMR_PROJECT/assets/100302933/6043c88b-325e-43b5-8170-7452057765b4) -- [This is the text being read by AI](https://imgur.com/a/YLp01XY)
 
 :smile: Started adding NPCs which will roam around the scene using a simple AI
 
@@ -102,6 +102,8 @@ https://assetstore.unity.com/packages/tools/level-design/road-system-192818
 
 https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
 
+https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579
+
 ### Skybox
 
 https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
@@ -112,9 +114,23 @@ https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainb
 
 https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-and-flowers-pack-1-17100?aid=1011ld79j&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker
 
+https://assetstore.unity.com/packages/3d/vegetation/trees/free-english-oak-set-260312 
+
+https://assetstore.unity.com/packages/3d/vegetation/trees/dream-forest-tree-105297 
+
+https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967
+
 ## Terrain
 
 In package manager, search Terrain Tools and install it.
+
+## Ornaments
+
+https://assetstore.unity.com/packages/3d/characters/humanoids/humans/santa-claus-rigged-167437 
+
+https://assetstore.unity.com/packages/3d/characters/low-poly-christmas-pack-santa-claus-181035 
+
+https://assetstore.unity.com/packages/3d/props/pbr-snowmen-251152
 
 ## Sound Effects
 
