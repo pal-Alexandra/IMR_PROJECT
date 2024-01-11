@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 518dbc5e75200994dba3f694f135cddd, type: 3}
   m_Name: BCU data
   m_EditorClassIdentifier: 
-  buildingName: Central University Library "Mihai Eminescu"
+  buildingName: Central University Library
   description: BCULorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
     veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
