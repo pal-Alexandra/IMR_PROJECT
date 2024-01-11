@@ -120,6 +120,8 @@ https://assetstore.unity.com/packages/3d/vegetation/trees/dream-forest-tree-1052
 
 https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967
 
+https://assetstore.unity.com/packages/2d/textures-materials/free-sample-materials-112184
+
 ## Terrain
 
 In package manager, search Terrain Tools and install it.
