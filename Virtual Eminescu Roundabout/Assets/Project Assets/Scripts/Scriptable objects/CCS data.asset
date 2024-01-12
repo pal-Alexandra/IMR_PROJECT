@@ -13,9 +13,19 @@ MonoBehaviour:
   m_Name: CCS data
   m_EditorClassIdentifier: 
   buildingName: Culture House of students
-  description: CCSLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
+  description: "Founded in 1969, the House of Culture of Students emerged from the
+    vision of providing a dedicated space for students to explore and showcase their
+    talents in various artistic disciplines. The institution quickly evolved into
+    a dynamic center for cultural, artistic, and intellectual activities, fostering
+    a sense of community and creativity among the student population. The House of
+    Culture of Students boasts an architectural marvel, designed by architect Constantin
+    G\u0103v\u0103nescu. Its striking blend of modernist elements and functional
+    design complements the picturesque surroundings of Copou, creating an inviting
+    space for cultural events, performances, and gatherings. Throughout its history,
+    the House of Culture of Students has been a vibrant cultural nexus, hosting a
+    myriad of events ranging from theatrical performances and art exhibitions to
+    literary gatherings and musical concerts. It has provided a platform for emerging
+    artists and intellectuals to share their work, contributing to the cultural vibrancy
+    of Ia\u0219i. "
   buildingImage: {fileID: 21300000, guid: 024f05a856ee65f49bd612cec167e107, type: 3}
   buildingURL: https://iasi.travel/en/stories/students-culture-house/
