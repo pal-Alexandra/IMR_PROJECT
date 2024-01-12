@@ -108,6 +108,12 @@ https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-t
 
 https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
 
+https://assetstore.unity.com/packages/2d/textures-materials/sky/free-hdr-skyboxes-pack-175525
+
+### Weather effects
+
+https://assetstore.unity.com/packages/vfx/particles/environment/rain-maker-2d-and-3d-rain-particle-system-for-unity-34938
+
 ## Nature elements
 
 https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622#content
