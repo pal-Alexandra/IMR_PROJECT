@@ -3454,3 +3454,597 @@ Virtual Eminescu Roundabout/Assets/Sample/Textures/Wood/Wood 1/wood_1_opacity.pn
 Virtual Eminescu Roundabout/Assets/Sample/Textures/Wood/Wood 1/wood_1_opacity.png.meta
 Virtual Eminescu Roundabout/Assets/Sample/Textures/Wood/Wood 1/wood_1_specularLevel.png
 Virtual Eminescu Roundabout/Assets/Sample/Textures/Wood/Wood 1/wood_1_specularLevel.png.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter.FBX
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter.FBX.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter.mat
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter.mat.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_BaseColor.png
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_BaseColor.png.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_black_BaseColor.png
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_black_BaseColor.png.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_black_MaskMap.png
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_black_MaskMap.png.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_MaskMap.png
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_MaskMap.png.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_Normal.png
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooter_ElectricScooter_Normal.png.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooterBlack.mat
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooterBlack.mat.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooterProp.FBX
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/ElectricScooterProp.FBX.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/Materials.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/Materials/ElectricScooter_ElectricScooter_BaseColor.mat
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/Materials/ElectricScooter_ElectricScooter_BaseColor.mat.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/Materials/ElectricScooter_ElectricScooter_black_BaseColor.mat
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Models/Materials/ElectricScooter_ElectricScooter_black_BaseColor.mat.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Prefabs.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Prefabs/ElectricScooter.prefab
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Prefabs/ElectricScooter.prefab.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Prefabs/ElectricScooter_black.prefab
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Prefabs/ElectricScooter_black.prefab.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Prefabs/ElectricScooterProp.prefab
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Prefabs/ElectricScooterProp.prefab.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Prefabs/ElectricScooterProp_black.prefab
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Prefabs/ElectricScooterProp_black.prefab.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Scenes.meta
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Scenes/Scene1.unity
+Virtual Eminescu Roundabout/Assets/ElectricScooter/Scenes/Scene1.unity.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Materials.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Materials/road_signs.mat
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Materials/road_signs.mat.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road sign_iron_road_stop.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road sign_iron_road_stop.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road sign_left.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road sign_left.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road sign_main.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road sign_main.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_60_limit.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_60_limit.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_bus_stop.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_bus_stop.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_child_stop.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_child_stop.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_crosswalk.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_crosswalk.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_metal_pole.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_metal_pole.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_stop_1.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_stop_1.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_stop_2.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_stop_2.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_stop_3.FBX
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Mesh/road_sign_stop_3.FBX.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road sign_iron_road_stop.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road sign_iron_road_stop.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road sign_left.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road sign_left.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road sign_main.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road sign_main.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_60_limit.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_60_limit.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_bus_stop.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_bus_stop.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_child_stop.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_child_stop.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_crosswalk.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_crosswalk.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_metal_pole.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_metal_pole.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_stop_1.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_stop_1.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_stop_2.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_stop_2.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_stop_3.prefab
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Prefabs/road_sign_stop_3.prefab.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Background.mat
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Background.mat.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Demo.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Demo.unity
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Demo.unity.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Demo/LightingData.asset
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Demo/LightingData.asset.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Demo/ReflectionProbe-2.exr
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Demo/ReflectionProbe-2.exr.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Demo/ReflectionProbe-5.exr
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Scene/Demo/ReflectionProbe-5.exr.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Textures.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Textures/road_sign_AlbedoTransparency.png
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Textures/road_sign_AlbedoTransparency.png.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Textures/road_sign_Normal.png
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Textures/road_sign_Normal.png.meta
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Textures/road_sign_SpecularSmoothness.png
+Virtual Eminescu Roundabout/Assets/Old Sign Roads/Textures/road_sign_SpecularSmoothness.png.meta
+Virtual Eminescu Roundabout/Assets/Project Assets/Scenes/Decorations.unity
+Virtual Eminescu Roundabout/Assets/Project Assets/Scenes/Decorations.unity.meta
+Virtual Eminescu Roundabout/Assets/Project Assets/Scenes/Virtual Eminescu Roundabout.unity
+Virtual Eminescu Roundabout/Assets/Pup Up Productions.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/LightingData.asset
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/LightingData.asset.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/LightingSettings.lighting
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/LightingSettings.lighting.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-0_comp_dir.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-0_comp_dir.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-0_comp_light.exr
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-0_comp_light.exr.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-0_comp_shadowmask.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-0_comp_shadowmask.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-1_comp_dir.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-1_comp_dir.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-1_comp_light.exr
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-1_comp_light.exr.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-1_comp_shadowmask.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/Lightmap-1_comp_shadowmask.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/ReflectionProbe-0.exr
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/ReflectionProbe-0.exr.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/ReflectionProbe-1.exr
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Asset Scene/ReflectionProbe-1.exr.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/AssetScenePlaneMat.mat
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/AssetScenePlaneMat.mat.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/Rusted.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/Rusted/StreetSignSet_Rusted_Metallic.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/Rusted/StreetSignSet_Rusted_Metallic.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Albedo_SetA.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Albedo_SetA.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Albedo_SetA_Rusted.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Albedo_SetA_Rusted.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_AO.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_AO.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Height.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Height.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Metallic.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Metallic.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Normal.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_Normal.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_PaintedPole_Metallic.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetA/StreetSignSet_PaintedPole_Metallic.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetB.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetB/StreetSignSet_Albedo_SetB.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetB/StreetSignSet_Albedo_SetB.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetB/StreetSignSet_Albedo_SetB_Rusted.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetB/StreetSignSet_Albedo_SetB_Rusted.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetC.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetC/StreetSignSet_Albedo_SetC.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetC/StreetSignSet_Albedo_SetC.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetC/StreetSignSet_Albedo_SetC_Rusted.png
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SetC/StreetSignSet_Albedo_SetC_Rusted.png.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetA_SilverPole_Mat.mat
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetA_SilverPole_Mat.mat.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetA_SilverPole_Rusted_Mat.mat
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetA_SilverPole_Rusted_Mat.mat.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetB_YellowPole_Mat.mat
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetB_YellowPole_Mat.mat.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetB_YellowPole_Rusted_Mat.mat
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetB_YellowPole_Rusted_Mat.mat.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetC_GreenPole_Mat.mat
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetC_GreenPole_Mat.mat.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetC_GreenPole_Rusted_Mat.mat
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Materials/SignSetC_GreenPole_Rusted_Mat.mat.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/Pole_Attachment.fbx
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/Pole_Attachment.fbx.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignAngledSquare.fbx
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignAngledSquare.fbx.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignCircle.fbx
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignCircle.fbx.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignHorizontalRectangle.fbx
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignHorizontalRectangle.fbx.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignSquare.fbx
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignSquare.fbx.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignStopSign.fbx
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignStopSign.fbx.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignTriangle.fbx
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignTriangle.fbx.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignVerticalRectangle.fbx
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Art/Meshes/SignVerticalRectangle.fbx.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Asset Scene.unity
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Asset Scene.unity.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Add Ons.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Add Ons/Next12kmAddOnRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Add Ons/Next12kmAddOnRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Add Ons/RailwayCrossingAddOnRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Add Ons/RailwayCrossingAddOnRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Add Ons/RampSpeedAddOnRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Add Ons/RampSpeedAddOnRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/GiveWaySignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/GiveWaySignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/KangarooSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/KangarooSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/NoEntrySignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/NoEntrySignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/NoRightTurnSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/NoRightTurnSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/NoUTurnSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/NoUTurnSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/PedestrianCrossingSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/PedestrianCrossingSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/RailwayCrossingRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/RailwayCrossingRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/RoughSurfaceRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/RoughSurfaceRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/RoundaboutSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/RoundaboutSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/SafetyZoneSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/SafetyZoneSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/SlowSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/SlowSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Speed Signs.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Speed Signs/110SpeedLimitSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Speed Signs/110SpeedLimitSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Speed Signs/60SpeedLimitSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Speed Signs/60SpeedLimitSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Speed Signs/80SpeedLimitSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/Speed Signs/80SpeedLimitSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/StopSignRusted.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Rusted/StopSignRusted.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/Next12kmAddOn.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/Next12kmAddOn.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/RailwayCrossingAddOn.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/RailwayCrossingAddOn.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/RampSpeedAddOn.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/RampSpeedAddOn.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/GiveWaySign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/GiveWaySign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/KangarooSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/KangarooSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoEntrySign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoEntrySign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoRightTurnSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoRightTurnSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoUTurnSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoUTurnSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/PedestrianCrossingSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/PedestrianCrossingSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RailwayCrossing.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RailwayCrossing.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RoughSurface.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RoughSurface.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RoundaboutSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RoundaboutSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/SafetyZoneSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/SafetyZoneSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/SlowSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/SlowSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/110SpeedLimitSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/110SpeedLimitSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/60SpeedLimitSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/60SpeedLimitSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/80SpeedLimitSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/80SpeedLimitSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/StopSign.prefab
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/StopSign.prefab.meta
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/ReadMe.txt
+Virtual Eminescu Roundabout/Assets/Pup Up Productions/Australian Road Sign Pack/ReadMe.txt.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_Short.fbx
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_Short.fbx.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_ShortDouble.fbx
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_ShortDouble.fbx.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_Tall.fbx
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_Tall.fbx.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_TallDouble.fbx
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp1_TallDouble.fbx.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_Short.fbx
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_Short.fbx.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_ShortDouble.fbx
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_ShortDouble.fbx.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_Tall.fbx
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_Tall.fbx.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_TallDouble.fbx
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Base Meshes/StreetLamp2_TallDouble.fbx.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Floor_mat.mat
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Floor_mat.mat.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_basecolor.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_basecolor.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_emissive.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_emissive.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_mat.mat
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_mat.mat.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_metallic.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_metallic.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_normal.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_normal.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_roughness.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Concrete_roughness.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_basecolor.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_basecolor.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_emissive.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_emissive.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_mat.mat
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_mat.mat.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_metallic.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_metallic.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_normal.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_normal.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_roughness.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp1Wood_roughness.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_basecolor.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_basecolor.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_emissive.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_emissive.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_mat.mat
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_mat.mat.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_metallic.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_metallic.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_normal.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_normal.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_roughness.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Black_roughness.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_basecolor.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_basecolor.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_emissive.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_emissive.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_mat.mat
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_mat.mat.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_metallic.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_metallic.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_normal.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_normal.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_roughness.png
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Materials/StreetLamp2Concrete_roughness.png.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Short (Concrete).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Short (Concrete).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Short (Wood).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Short (Wood).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_ShortDouble (Concrete).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_ShortDouble (Concrete).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_ShortDouble (Wood).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_ShortDouble (Wood).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Tall (Concrete).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Tall (Concrete).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Tall (Wood).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_Tall (Wood).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_TallDouble (Concrete).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_TallDouble (Concrete).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_TallDouble (Wood).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp1_TallDouble (Wood).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Short (Black).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Short (Black).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Short (Concrete).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Short (Concrete).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_ShortDouble (Black).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_ShortDouble (Black).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_ShortDouble (Concrete).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_ShortDouble (Concrete).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Black).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Black).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Concrete).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_Tall (Concrete).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_TallDouble (Black).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_TallDouble (Black).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_TallDouble (Concrete).prefab
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Prefabs/StreetLamp2_TallDouble (Concrete).prefab.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Showcase.unity
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/Showcase.unity.meta
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/ShowcaseSettings.lighting
+Virtual Eminescu Roundabout/Assets/SpaceZeta_StreetLamps/ShowcaseSettings.lighting.meta
+Virtual Eminescu Roundabout/Assets/Street_props.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_001.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_001.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_N.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_N.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_New.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_New.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_New_D.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_New_D.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_New_SG.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_New_SG.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_Old.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_Old.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_Old_D.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_Old_D.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_Old_SG.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_Old_SG.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_OldPrefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_01_OldPrefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_001.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_001.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_New.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_New.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_new_d.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_new_d.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_new_n.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_new_n.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_new_sg.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_new_sg.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_Old.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_Old.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_old_d.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_old_d.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_old_sg.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Bench/Bench_02_old_sg.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_001.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_001.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_N.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_N.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_New.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_New.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_New_D.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_New_D.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_New_SG.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_New_SG.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_Old.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_Old.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_01_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_001.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_001.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_New.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_New.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_new_d.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_new_d.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_new_n.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_new_n.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_new_sg.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_new_sg.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_Old.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_Old.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_old_d.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_old_d.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_old_sg.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hydrant_02_old_sg.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hyrdrant_01_Old_D.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hyrdrant_01_Old_D.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hyrdrant_01_Old_SG.tga.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Hydrant/Hyrdrant_01_Old_SG.tga.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_1.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_1.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_1_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_1_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_1_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_1_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_2.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_2.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_2_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_2_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_2_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_2_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_3.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_3.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_3_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_3_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_3_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_3_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_4.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_4.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_4_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_4_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_4_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_4_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_5.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_5.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_5_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_5_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_5_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_5_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_E.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_E.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_N.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_N.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_New.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_New.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_New_D.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_New_D.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_New_SG.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_New_SG.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_Old.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_Old.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_Old_D.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_Old_D.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_Old_SG.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_01_Old_SG.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_light_02_1.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_light_02_1.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_1_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_1_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_1_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_1_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_light_02_2.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_light_02_2.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_2_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_2_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_2_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_2_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_light_02_3.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_light_02_3.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_3_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_3_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_3_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_3_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_N.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_N.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_New.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_New.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_new_d.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_new_d.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_new_e.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_new_e.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_new_sg.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_new_sg.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_Old.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_Old.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_old_d.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_old_d.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_old_sg.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Streetlight/Street_Light_02_old_sg.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Thumbs.db
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Thumbs.db.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_001.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_001.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_N.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_N.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_New.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_New.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_New_D.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_New_D.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_New_SG.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_New_SG.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_Old.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_Old.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_Old_D.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_Old_D.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_Old_SG.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_01_Old_SG.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_001.obj
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_001.obj.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_001_New_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_001_New_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_001_Old_Prefab.prefab
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_001_Old_Prefab.prefab.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_n.png
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_n.png.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_New.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_New.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_new_d.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_new_d.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_new_sg.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_new_sg.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_Old.mat
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_Old.mat.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_old_d.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_old_d.tga.meta
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_old_new_sg_.tga
+Virtual Eminescu Roundabout/Assets/Street_props/Trash/Trash_02_old_new_sg_.tga.meta
+Virtual Eminescu Roundabout/Packages/packages-lock.json
+Virtual Eminescu Roundabout/Packages/packages-lock.json
+Virtual Eminescu Roundabout/Packages/packages-lock.json
+Virtual Eminescu Roundabout/Packages/packages-lock.json
+Virtual Eminescu Roundabout/Assets/Project Assets/Scenes/Virtual Eminescu Roundabout.unity
