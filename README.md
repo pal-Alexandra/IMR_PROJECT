@@ -92,6 +92,22 @@ In this week:
 
 :smile: Statue of Lapusneanu added in scene - Used Polycam for converting from video to object - We tried recording with phone camera, but with bad results, so tried recording using a drone flying around the statue and we got better results. [CLICK HERE FOR DRONE VIDEO](https://www.youtube.com/watch?v=RgTpxKZPw5s) and also you can [CLICK HERE FOR THE GREAT RESULTS OF STATUE SCAN](https://imgur.com/a/S9TkYHk)
 
+## Progress for Lab 12
+
+:smile: Added weather effects (rain) and skyboxes for the different settings available on the settings panel (we have to connect the functionalities, everything is there)
+
+:smile: Created a script that handles vehicles which follow a path made of game objects, basically vehicles go from point to point and added a tram to the scene and autobuses which infinitely move around
+
+:smile: Added a lot of decoration to the scene - trashcans, street lamps, public benches.
+
+:smile: BIG FEATURE: Added seasons - Created two more terrains, one for autumn and one for winter, the winter one comes with Christmas decorations.
+
+:smile: Added all the AI voices for all buildings, we just have to add a button to play them on the UI (Possibly doing this this week)
+
+:smile: Modified the XR Controllers, now they have additional raycasts, so now you can both interact directly using a XR Direct Interactor but also with a XR Ray Interactor for the UI. 
+
+:smile: Added UI which works with the controllers, just have to add the functionality of each button, most of it is already there, just connecting some assets.
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
