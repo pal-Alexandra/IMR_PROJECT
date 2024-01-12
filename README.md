@@ -134,6 +134,14 @@ https://assetstore.unity.com/packages/3d/characters/low-poly-christmas-pack-sant
 
 https://assetstore.unity.com/packages/3d/props/pbr-snowmen-251152
 
+https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-165658
+
+https://assetstore.unity.com/packages/3d/props/exterior/gaz-street-props-57285
+
+https://assetstore.unity.com/packages/3d/environments/urban/australian-street-sign-pack-213047
+
+https://assetstore.unity.com/packages/3d/props/exterior/electric-scooter-prop-171335
+
 ## Sound Effects
 
 https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
