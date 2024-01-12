@@ -5,9 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Virtual Eminescu Roundabout.unity
-    guid: a89f81aab5c9998418e9dce8da157a08
+    guid: 6d8a0e9b422b70c47acbf60502925021
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 754af9a82d0d898479ea807e1678b359, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6072949c0be48514a9723b37672f4665, type: 2}

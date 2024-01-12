@@ -13,9 +13,20 @@ MonoBehaviour:
   m_Name: Statue data
   m_EditorClassIdentifier: 
   buildingName: Eminescu's statue
-  description: STLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
+  description: "In the heart of Ia\u0219i, adjacent to the Central University Library
+    'Mihai Eminescu,' proudly stands a bronze tribute to the \"Luceaf\u0103rul of
+    Romanian poetry,\" Mihai Eminescu (1850-1889). Crafted with meticulous artistry
+    by sculptor Ion Schmidt Faur, this monument was inaugurated in 1929, captivating
+    the essence of Eminescu's profound influence on Romanian literature. Originally
+    positioned in front of the 'Al. I. Cuza' University, the statue found a new home
+    in 1957, relocating to the serene surroundings of the Central University Library.
+    This strategic move not only emphasizes the synergy between literature and academia
+    but also offers a poignant reminder of Eminescu's enduring connection to the
+    pursuit of knowledge. Surrounded by the academic ambiance of the Central University
+    Library, the statue becomes a focal point for reflection, study, and appreciation
+    of the cultural heritage Eminescu left behind. Whether bathed in the golden hues
+    of daylight or illuminated by the soft glow of evening, the statue stands as
+    a timeless beacon, reminding all who encounter it of the enduring power of words
+    and the indelible mark left by Mihai Eminescu on Romania's literary landscape. "
   buildingImage: {fileID: 21300000, guid: 9abbd15f8341fa44285b1d9b7802d14e, type: 3}
   buildingURL: https://en.wikipedia.org/wiki/Statue_of_Mihai_Eminescu,_Ia%C8%99i

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Christmas tree 6
+* source:	https://sketchfab.com/3d-models/christmas-tree-6-d4a6f3f6abfb4423b395e668b623919f
+* author:	B4D7 (https://sketchfab.com/B4D7)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
