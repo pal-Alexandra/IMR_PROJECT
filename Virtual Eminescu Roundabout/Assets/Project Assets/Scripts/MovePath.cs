@@ -44,7 +44,7 @@ public class MovePath : MonoBehaviour
     {
         if (index < points.Count - 1)
         {
-            Vector3 direction = points[index + 1].transform.position - transform.position;
+            Vector3 direction = points[index].transform.position - transform.position;
             direction.y = 0; // Ensure the rotation is only around the y-axis
             Quaternion rotation = Quaternion.LookRotation(direction);
             transform.rotation = Quaternion.Slerp(transform.rotation, rotation, rotationSpeed * Time.deltaTime);
