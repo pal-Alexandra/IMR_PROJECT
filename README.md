@@ -108,6 +108,8 @@ In this week:
 
 :smile: Added UI which works with the controllers, just have to add the functionality of each button, most of it is already there, just connecting some assets.
 
+:smile: AI NPCs which roam around the scene almost completely added, just some bugfixing needed
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
