@@ -114,6 +114,10 @@ In this week:
 
 :smile: Removed diacritics from buildings text due to font not supporting those characters
 
+:smile: Added a sample script for the settings panel that handles button clicking and volume slider moving
+
+:smile: Removed directional light that illuminated entire scene, added spot lights to street lamps that now illuminate the scene during the night and during the day the skybox illuminates
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
