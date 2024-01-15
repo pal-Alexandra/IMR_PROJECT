@@ -13,16 +13,16 @@ MonoBehaviour:
   m_Name: PC data
   m_EditorClassIdentifier: 
   buildingName: Children's Palace
-  description: "Children's Palace is a cultural and educational landmark that has
+  description: 'Children''s Palace is a cultural and educational landmark that has
     enriched the lives of generations. Established with the vision of nurturing young
     talents and fostering creativity, the palace has become an integral part of the
-    city's cultural fabric. Founded in 1957, Children's Palace was conceived as a
-    haven for children to explore and develop their artistic, scientific, and athletic
+    city''s cultural fabric. Founded in 1957, Children''s Palace was conceived as
+    a haven for children to explore and develop their artistic, scientific, and athletic
     potential. The visionary initiative aimed to provide a holistic environment for
     young minds to flourish, fostering a sense of curiosity and passion for various
-    fields of knowledge. The palace's architectural brilliance, designed by renowned
-    architect Constantin G\u0103v\u0103nescu, reflects a harmonious blend of modernism
-    and functionality. Its inviting structure, surrounded by greenery in Copou Park,
-    creates an inspiring setting for the pursuit of knowledge and creativity. "
+    fields of knowledge. The palace''s architectural brilliance, designed by renowned
+    architect Constantin Gavanescu, reflects a harmonious blend of modernism and
+    functionality. Its inviting structure, surrounded by greenery in Copou Park,
+    creates an inspiring setting for the pursuit of knowledge and creativity. '
   buildingImage: {fileID: 21300000, guid: c6207a5f3c3b5fc45988da72e14fd7db, type: 3}
   buildingURL: https://turismiasi.wixsite.com/blog/palatul-copiilor?lang=en

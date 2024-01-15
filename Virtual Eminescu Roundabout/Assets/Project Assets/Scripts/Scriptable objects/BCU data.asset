@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: BCU data
   m_EditorClassIdentifier: 
   buildingName: Central University Library
-  description: "Founded in 1834, Central University Library 'Mihai Eminescu' in Ia\u0219i,
-    Romania, holds a distinguished place in the nation's cultural and intellectual
-    heritage. Initially established as part of Academia Mih\u0103ilean\u0103, it
-    has evolved into one of Romania's oldest and most esteemed cultural institutions.
-    The library's current neoclassical and art deco-inspired building, designed by
-    Marcel Iancu and completed in 1934, is a testament to architectural finesse.
-    Adorned with sculptures and intricate details, it serves as a welcoming gateway
-    to a world of knowledge and culture. Its extensive collection, including rare
-    manuscripts and an archive of Romanian literature, reflects a commitment to preserving
-    and promoting the country's cultural legacy. Throughout its history, the library
+  description: 'Founded in 1834, Central University Library ''Mihai Eminescu'' in
+    Iasi, Romania, holds a distinguished place in the nation''s cultural and intellectual
+    heritage. Initially established as part of Academia Mihaileana, it has evolved
+    into one of Romania''s oldest and most esteemed cultural institutions. The library''s
+    current neoclassical and art deco-inspired building, designed by Marcel Iancu
+    and completed in 1934, is a testament to architectural finesse. Adorned with
+    sculptures and intricate details, it serves as a welcoming gateway to a world
+    of knowledge and culture. Its extensive collection, including rare manuscripts
+    and an archive of Romanian literature, reflects a commitment to preserving and
+    promoting the country''s cultural legacy. Throughout its history, the library
     has been a vibrant cultural hub, hosting events, lectures, and exhibitions. Its
     reading rooms have been witness to the exchange of ideas that have shaped the
-    intellectual discourse of Ia\u0219i and beyond. "
+    intellectual discourse of Iasi and beyond. '
   buildingImage: {fileID: 21300000, guid: 0c4ad4ec254f4e34e83c60c0a5b40c18, type: 3}
   buildingURL: https://en.wikipedia.org/wiki/Central_University_Library_of_Ia%C8%99i
