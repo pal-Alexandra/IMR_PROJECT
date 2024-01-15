@@ -112,6 +112,8 @@ In this week:
 
 :smile: Moved spawn, extended Pacurari road and the bus & microbus routes and added rail lines for the the trams
 
+:smile: Removed diacritics from buildings text due to font not supporting those characters
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
