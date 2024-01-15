@@ -110,6 +110,8 @@ In this week:
 
 :smile: AI NPCs which roam around the scene almost completely added, just some bugfixing needed
 
+:smile: Moved spawn, extended Pacurari road and the bus & microbus routes and added rail lines for the the trams
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
