@@ -116,7 +116,7 @@ In this week:
 
 :smile: Added a sample script for the settings panel that handles button clicking and volume slider moving
 
-:smile: Removed directional light that illuminated entire scene, added spot lights to street lamps that now illuminate the scene during the night and during the day the skybox illuminates
+:smile: Removed directional light that illuminated entire scene, added spot lights to street lamps that now illuminate the scene during the night and during the day the skybox illuminates and also tried baking the lights
 
 ## Necessary assets to download to use in Unity
 
