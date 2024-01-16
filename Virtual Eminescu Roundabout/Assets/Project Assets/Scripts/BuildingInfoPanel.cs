@@ -4,20 +4,17 @@ using TMPro;
 
 public class BuildingInfoPanel : MonoBehaviour
 {
-    private TextMeshProUGUI buildingTitleText;
-    private TextMeshProUGUI buildingBodyText;
-    private Image buildingImage;
-    private Button openURLButton;
-
     private BuildingData currentBuildingData;
 
-    public void Start()
-    {
-        buildingTitleText = transform.Find("Building_title").GetComponentInChildren<TextMeshProUGUI>();
-        buildingBodyText = transform.Find("Building_body").GetComponentInChildren<TextMeshProUGUI>();
-        buildingImage = transform.Find("Building_image").GetComponentInChildren<Image>();
-        openURLButton = transform.Find("Building_button").GetComponentInChildren<Button>();
-    }
+    [SerializeField] 
+    private TextMeshProUGUI buildingTitleText;
+    [SerializeField] 
+    private TextMeshProUGUI buildingBodyText;
+    [SerializeField] 
+    private Image buildingImage;
+    [SerializeField] 
+    private Button openURLButton;
+
     public void UpdatePanel(BuildingData buildingData)
     {
         currentBuildingData = buildingData;

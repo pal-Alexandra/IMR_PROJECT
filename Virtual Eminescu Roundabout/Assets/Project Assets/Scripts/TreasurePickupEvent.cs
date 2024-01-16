@@ -13,7 +13,6 @@ public class TreasurePickupEvent : MonoBehaviour
     private void Start()
     {
         XRBaseInteractable interactable = GetComponent<XRBaseInteractable>();
-        interactable.activated.AddListener(TriggerHapticFeedback);
     }
 
     private void Awake()
@@ -46,18 +45,6 @@ public class TreasurePickupEvent : MonoBehaviour
         Debug.Log("Object dropped");
     }
 
-    private void TriggerHapticFeedback(XRBaseController controller)
-    {
-        controller.SendHapticImpulse(0.5f, 0.3f);
-    }
-
-    private void TriggerHapticFeedback(BaseInteractionEventArgs eventArgs)
-    {
-        if (eventArgs.interactorObject is XRBaseControllerInteractor controllerInteractor)
-        {
-            TriggerHapticFeedback(controllerInteractor.xrController);
-        }
-    }
     private void PlaySound(AudioClip clip)
     {
         if (clip != null && audioSource != null)
