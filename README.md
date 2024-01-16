@@ -88,8 +88,6 @@ In this week:
 
 :smile: Created AI made audio voices which will read the text on each panel when pressing a button for that. Here's a sample of the Children's Palace, voice done by ![Mickey Mouse](https://github.com/pal-Alexandra/IMR_PROJECT/assets/100302933/6043c88b-325e-43b5-8170-7452057765b4) -- [This is the text being read by AI](https://imgur.com/a/YLp01XY)
 
-:smile: Started adding NPCs which will roam around the scene using a simple AI
-
 :smile: Statue of Lapusneanu added in scene - Used Polycam for converting from video to object - We tried recording with phone camera, but with bad results, so tried recording using a drone flying around the statue and we got better results. [CLICK HERE FOR DRONE VIDEO](https://www.youtube.com/watch?v=RgTpxKZPw5s) and also you can [CLICK HERE FOR THE GREAT RESULTS OF STATUE SCAN](https://imgur.com/a/S9TkYHk)
 
 ## Progress for Lab 12
@@ -107,8 +105,6 @@ In this week:
 :smile: Modified the XR Controllers, now they have additional raycasts, so now you can both interact directly using a XR Direct Interactor but also with a XR Ray Interactor for the UI. 
 
 :smile: Added UI which works with the controllers, just have to add the functionality of each button, most of it is already there, just connecting some assets.
-
-:smile: AI NPCs which roam around the scene almost completely added, just some bugfixing needed
 
 :smile: Moved spawn, extended Pacurari road and the bus & microbus routes and added rail lines for the the trams
 
