@@ -114,6 +114,8 @@ In this week:
 
 :smile: Removed directional light that illuminated entire scene, added spot lights to street lamps that now illuminate the scene during the night and during the day the skybox illuminates and also tried baking the lights
 
+:smile: Fixed a bug that caused the game to crash when picking up the first treasure hunt item
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
