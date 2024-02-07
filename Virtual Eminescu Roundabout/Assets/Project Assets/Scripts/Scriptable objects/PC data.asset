@@ -25,4 +25,4 @@ MonoBehaviour:
     functionality. Its inviting structure, surrounded by greenery in Copou Park,
     creates an inspiring setting for the pursuit of knowledge and creativity. '
   buildingImage: {fileID: 21300000, guid: c6207a5f3c3b5fc45988da72e14fd7db, type: 3}
-  buildingURL: https://turismiasi.wixsite.com/blog/palatul-copiilor?lang=en
+  buildingSpeakingInfo: {fileID: 8300000, guid: 3afb989fbc1a6444b8f776b757eb730f, type: 3}

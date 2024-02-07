@@ -27,4 +27,4 @@ MonoBehaviour:
     reading rooms have been witness to the exchange of ideas that have shaped the
     intellectual discourse of Iasi and beyond. '
   buildingImage: {fileID: 21300000, guid: 0c4ad4ec254f4e34e83c60c0a5b40c18, type: 3}
-  buildingURL: https://en.wikipedia.org/wiki/Central_University_Library_of_Ia%C8%99i
+  buildingSpeakingInfo: {fileID: 8300000, guid: 62e607d2eb51513428faa0e2a8ad53e2, type: 3}

@@ -12,8 +12,13 @@ public class BuildingInfoPanel : MonoBehaviour
     private TextMeshProUGUI buildingBodyText;
     [SerializeField] 
     private Image buildingImage;
+    [SerializeField]
+    private AudioClip buildingAudioClip;
     [SerializeField] 
-    private Button openURLButton;
+    private Button speakButton;
+
+    private AudioSource audioSource;
+
 
     public void UpdatePanel(BuildingData buildingData)
     {
@@ -22,13 +27,22 @@ public class BuildingInfoPanel : MonoBehaviour
         buildingTitleText.text = currentBuildingData.buildingName;
         buildingBodyText.text = currentBuildingData.description;
         buildingImage.sprite = currentBuildingData.buildingImage;
+        buildingAudioClip = currentBuildingData.buildingSpeakingInfo;
 
-        openURLButton.onClick.RemoveAllListeners();
-        openURLButton.onClick.AddListener(OpenURL);
+        audioSource = GetComponent<AudioSource>();
+
+        speakButton.onClick.RemoveAllListeners();
+        speakButton.onClick.AddListener(SpeakInformation);
+
     }
 
-    public void OpenURL()
+    public void SpeakInformation()
     {
         print("button pressed");
+        if (buildingAudioClip != null && audioSource != null)
+        {
+            print("button effect");
+            audioSource.PlayOneShot(buildingAudioClip);
+        }
     }
 }

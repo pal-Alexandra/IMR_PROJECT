@@ -29,4 +29,4 @@ MonoBehaviour:
     a timeless beacon, reminding all who encounter it of the enduring power of words
     and the indelible mark left by Mihai Eminescu on Romania's literary landscape. "
   buildingImage: {fileID: 21300000, guid: 9abbd15f8341fa44285b1d9b7802d14e, type: 3}
-  buildingURL: https://en.wikipedia.org/wiki/Statue_of_Mihai_Eminescu,_Ia%C8%99i
+  buildingSpeakingInfo: {fileID: 8300000, guid: 697e71f61316d5f48b7c671b199ebf7d, type: 3}
