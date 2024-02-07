@@ -9,6 +9,16 @@ public class MovePath : MonoBehaviour
     private float rotationSpeed = 5;
     int index = 0;
     public bool isLoop = true;
+    public bool isReverted = false;
+
+    private void Start()
+    {
+        if (isReverted)
+        {
+            points.Reverse();
+        }
+    }
+
 
     private void Update()
     {
