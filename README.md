@@ -116,6 +116,10 @@ In this week:
 
 :smile: Fixed a bug that caused the game to crash when picking up the first treasure hunt item
 
+## Progress for Final Presentation
+
+:smile: Fixed a small issue which caused some vehicles to drive according to UK rules instead of Romania.
+
 ## Necessary assets to download to use in Unity
 
 ### Road System:
