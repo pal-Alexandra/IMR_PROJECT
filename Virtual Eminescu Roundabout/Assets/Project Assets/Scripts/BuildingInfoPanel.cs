@@ -29,10 +29,6 @@ public class BuildingInfoPanel : MonoBehaviour
 
     public void OpenURL()
     {
-        if (currentBuildingData != null && !string.IsNullOrEmpty(currentBuildingData.buildingURL))
-        {
-            Application.OpenURL(currentBuildingData.buildingURL);
-        }
+        print("button pressed");
     }
-
 }

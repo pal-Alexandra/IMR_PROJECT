@@ -19,7 +19,6 @@ public class MovePath : MonoBehaviour
         }
     }
 
-
     private void Update()
     {
         MoveObject();
