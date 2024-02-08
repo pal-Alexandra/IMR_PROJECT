@@ -5,7 +5,6 @@ public class ScoreboardManager : MonoBehaviour
 {
     private List<GameObject> allTreasures;
     private ProgressPanel progressPanelScript;
-    private BuildingInfoPanel infoPanelScript;
 
     private AudioSource audioSource;
 
@@ -16,33 +15,27 @@ public class ScoreboardManager : MonoBehaviour
     private GameObject progressPanel;
 
     [SerializeField]
-    private GameObject infoPanel;
-
-    [SerializeField]
-    private BuildingData BCUbuildingData;
-    [SerializeField]
-    private BuildingData CCSbuildingData;
-    [SerializeField]
-    private BuildingData PCbuildingData;
-    [SerializeField]
-    private BuildingData StatuebuildingData;
-
-    [SerializeField]
     private AudioClip pickupSound;
+
+    [SerializeField]
+    private GameObject BCUBuilding;
+    [SerializeField]
+    private GameObject CCSBuilding;
+    [SerializeField]
+    private GameObject PCBuilding;
+    [SerializeField]
+    private GameObject StatueBuilding;
+
 
 
     private void Start()
     {
         audioSource = GetComponent<AudioSource>();
+
         allTreasures = new List<GameObject>(GameObject.FindGameObjectsWithTag("Treasure"));
         if (progressPanel != null)
         {
             progressPanelScript = progressPanel.GetComponent<ProgressPanel>();
-        }
-        if (infoPanel != null)
-        {
-            infoPanelScript = infoPanel.GetComponent<BuildingInfoPanel>();
-            infoPanel.SetActive(false);
         }
     }
 
@@ -58,30 +51,20 @@ public class ScoreboardManager : MonoBehaviour
             if (!allTreasures[i].activeInHierarchy)
             {
                 string collectedTreasureName = allTreasures[i].name;
-                UpdatePanels(collectedTreasureName);
+                UpdateProgressPanel(collectedTreasureName);
+                ModifyBuildingTagBasedOnFlag(collectedTreasureName);
                 allTreasures.RemoveAt(i);
                 PlaySound(pickupSound);
             }
         }
     }
 
-    private void UpdatePanels(string collectedTreasureName)
+    private void UpdateProgressPanel(string collectedTreasureName)
     {
         if (progressPanelScript == null) return;
 
-        if (infoPanel != null && !infoPanel.activeSelf)
-        {
-            infoPanel.SetActive(true);
-        }
-
         int flag = DetermineFlagFromTreasureName(collectedTreasureName);
         progressPanelScript.UpdatePanel(progressImages, flag);
-
-        if (infoPanelScript != null)
-        {
-            BuildingData buildingData = GetBuildingDataBasedOnFlag(flag);
-            infoPanelScript.UpdatePanel(buildingData);
-        }
     }
 
     private int DetermineFlagFromTreasureName(string treasureName)
@@ -101,20 +84,25 @@ public class ScoreboardManager : MonoBehaviour
         }
     }
 
-    private BuildingData GetBuildingDataBasedOnFlag(int flag)
+    private void ModifyBuildingTagBasedOnFlag(string collectedTreasureName)
     {
+        int flag = DetermineFlagFromTreasureName(collectedTreasureName);
         switch (flag)
         {
             case 1:
-                return StatuebuildingData;
+                StatueBuilding.tag = "ActiveBuilding";
+                break;
             case 2:
-                return BCUbuildingData;
+                BCUBuilding.tag = "ActiveBuilding";
+                break;
             case 3:
-                return PCbuildingData;
+                PCBuilding.tag = "ActiveBuilding";
+                break;
             case 4:
-                return CCSbuildingData;
+                CCSBuilding.tag = "ActiveBuilding";
+                break;
             default:
-                return null;
+                break;
         }
     }
 

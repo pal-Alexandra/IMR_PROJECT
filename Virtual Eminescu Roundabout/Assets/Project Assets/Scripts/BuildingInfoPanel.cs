@@ -12,13 +12,19 @@ public class BuildingInfoPanel : MonoBehaviour
     private TextMeshProUGUI buildingBodyText;
     [SerializeField] 
     private Image buildingImage;
-    [SerializeField]
-    private AudioClip buildingAudioClip;
     [SerializeField] 
     private Button speakButton;
-    private bool isAudioPlaying = false;
 
     private AudioSource audioSource;
+    private AudioClip buildingAudioClip;
+    private bool isAudioPlaying = false;
+
+    [SerializeField]
+    private float distanceFromPlayer = 5f;
+    [SerializeField]
+    private float heightOffset = 1.5f;
+    [SerializeField]
+    private Transform playerCameraTransform;
 
     public void UpdatePanel(BuildingData buildingData)
     {
@@ -34,26 +40,39 @@ public class BuildingInfoPanel : MonoBehaviour
         speakButton.onClick.RemoveAllListeners();
         speakButton.onClick.AddListener(SpeakInformation);
 
+        MovePanelInFrontOfPlayer();
     }
 
     public void SpeakInformation()
     {
-        print("button pressed");
         if (buildingAudioClip != null && audioSource != null)
         {
             if (isAudioPlaying)
             {
-                print("stopping audio");
                 audioSource.Stop();
                 isAudioPlaying = false;
             }
             else
             {
-                print("button effect. playing audio");
                 audioSource.PlayOneShot(buildingAudioClip);
                 isAudioPlaying = true;
             }
-            
         }
+    }
+
+    private void MovePanelInFrontOfPlayer()
+    {
+        if (playerCameraTransform == null) return;
+
+        Vector3 newPosition = playerCameraTransform.position + playerCameraTransform.forward * distanceFromPlayer;
+        newPosition.y += heightOffset;
+        transform.position = newPosition;
+
+        Vector3 directionToFace = playerCameraTransform.position - transform.position;
+
+        Quaternion initialRotation = Quaternion.LookRotation(directionToFace);
+        Quaternion correctedRotation = Quaternion.Euler(0, initialRotation.eulerAngles.y + 180, 0);
+
+        transform.rotation = correctedRotation;
     }
 }
