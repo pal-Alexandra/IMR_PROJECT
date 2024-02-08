@@ -180,6 +180,10 @@ https://assetstore.unity.com/packages/3d/environments/urban/australian-street-si
 
 https://assetstore.unity.com/packages/3d/props/exterior/electric-scooter-prop-171335
 
+https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-pack-free-150318
+
+https://assetstore.unity.com/packages/3d/props/exterior/colored-parasols-214006
+
 ## Sound Effects
 
 https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
