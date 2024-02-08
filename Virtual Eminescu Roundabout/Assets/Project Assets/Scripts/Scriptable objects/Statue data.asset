@@ -24,9 +24,6 @@ MonoBehaviour:
     but also offers a poignant reminder of Eminescu's enduring connection to the
     pursuit of knowledge. Surrounded by the academic ambiance of the Central University
     Library, the statue becomes a focal point for reflection, study, and appreciation
-    of the cultural heritage Eminescu left behind. Whether bathed in the golden hues
-    of daylight or illuminated by the soft glow of evening, the statue stands as
-    a timeless beacon, reminding all who encounter it of the enduring power of words
-    and the indelible mark left by Mihai Eminescu on Romania's literary landscape. "
+    of the cultural heritage Eminescu left behind."
   buildingImage: {fileID: 21300000, guid: 9abbd15f8341fa44285b1d9b7802d14e, type: 3}
   buildingSpeakingInfo: {fileID: 8300000, guid: 697e71f61316d5f48b7c671b199ebf7d, type: 3}
