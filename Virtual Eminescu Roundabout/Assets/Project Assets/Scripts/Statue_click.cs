@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class Statue_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
+public class Statue_click : MonoBehaviour, IPointerClickHandler
 {
     private List<GameObject> allTreasures;
     [SerializeField]
@@ -18,6 +18,7 @@ public class Statue_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandle
 
     private void Awake()
     {
+        Debug.Log("STATUE AWAKE");
         allTreasures = new List<GameObject>(GameObject.FindGameObjectsWithTag("Treasure"));
         if (dynamicInfoPanel != null)
         {
@@ -25,13 +26,11 @@ public class Statue_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandle
         }
     }
 
-    public void OnPointerDown(PointerEventData eventData)
+    private void OnMouseUpAsButton()
     {
+        Debug.Log("STATUE CLICKED!!!");
     }
 
-    public void OnPointerUp(PointerEventData eventData)
-    {
-    }
 
     public void OnPointerClick(PointerEventData eventData)
     {
@@ -59,7 +58,7 @@ public class Statue_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandle
 
     private void CheckFlowerIsCollected()
     {
-        Debug.Log("I'm in CheckFlowerIsCollected");
+        //Debug.Log("I'm in CheckFlowerIsCollected");
         GameObject flower = getStatueTreasure();
 
         if (flower)
@@ -86,16 +85,6 @@ public class Statue_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandle
         {
             infoPanelScript.UpdatePanel(StatuebuildingData);
         }
-
-    }
-
-    public void OnPointerEnter(PointerEventData eventData)
-    {
-
-    }
-
-    public void OnPointerExit(PointerEventData eventData)
-    {
 
     }
 }

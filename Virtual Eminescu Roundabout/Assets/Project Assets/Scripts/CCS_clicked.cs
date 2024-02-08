@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class CCS_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
+public class CCS_clicked : MonoBehaviour, IPointerClickHandler
 {
     private List<GameObject> allTreasures;
     [SerializeField]
@@ -18,6 +18,7 @@ public class CCS_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 
     private void Awake()
     {
+        Debug.Log("CCS AWAKE");
         allTreasures = new List<GameObject>(GameObject.FindGameObjectsWithTag("Treasure"));
         if (dynamicInfoPanel != null)
         {
@@ -25,17 +26,14 @@ public class CCS_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         }
     }
 
-    public void OnPointerDown(PointerEventData eventData)
+    private void OnMouseUpAsButton()
     {
-    }
-
-    public void OnPointerUp(PointerEventData eventData)
-    {
+        Debug.Log("CCS CLICKED!!!");
     }
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        //Debug.Log("pointer CLICK CCS");
+        Debug.Log("pointer CLICK CCS");
         CheckRedbullIsCollected();
 
     }
@@ -59,7 +57,7 @@ public class CCS_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 
     private void CheckRedbullIsCollected()
     {
-        Debug.Log("I'm in CheckRedbullIsCollected");
+        //Debug.Log("I'm in CheckRedbullIsCollected");
         GameObject redbull = getCCSTreasure();
 
         if (redbull)
@@ -89,13 +87,4 @@ public class CCS_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 
     }
 
-    public void OnPointerEnter(PointerEventData eventData)
-    {
-
-    }
-
-    public void OnPointerExit(PointerEventData eventData)
-    {
-
-    }
 }

@@ -4,8 +4,9 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using static Unity.IO.LowLevel.Unsafe.AsyncReadManagerMetrics;
+using UnityEngine.XR.Interaction.Toolkit;
 
-public class BCU_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
+public class BCU_click : MonoBehaviour, IPointerClickHandler
 {
 
     private List<GameObject> allTreasures;
@@ -17,7 +18,7 @@ public class BCU_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, 
     [SerializeField]
     private BuildingData BCUbuildingData;
 
-
+    private XRGrabInteractable grabInteractable;
 
     private void Awake()
     {
@@ -27,24 +28,17 @@ public class BCU_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, 
         {
             infoPanelScript = dynamicInfoPanel.GetComponent<BuildingInfoPanel>();
         }
-    }
 
-    public void OnPointerDown(PointerEventData eventData)
-    {
-        //Debug.Log("pointer down bcu");
-    }
 
-    public void OnPointerUp(PointerEventData eventData)
-    {
-        //Debug.Log("pointer up bcu");
     }
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        //Debug.Log("pointer CLICK bcu");
+        Debug.Log("pointer CLICK bcu");
         CheckBookIsCollected();
 
     }
+
 
     private GameObject getBCUTreasure()
     {
@@ -54,7 +48,7 @@ public class BCU_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, 
             string collectedTreasureName = allTreasures[i].name;
             if (collectedTreasureName == "Book")
             {
-                Debug.Log("I found the book");
+                //Debug.Log("I found the book");
                 book = allTreasures[i];
                 break;
             }
@@ -65,7 +59,7 @@ public class BCU_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, 
 
     private void CheckBookIsCollected()
     {
-        Debug.Log("I'm in CheckBookIsCollected");
+        //Debug.Log("I'm in CheckBookIsCollected");
         GameObject book = getBCUTreasure();
 
         if (book)
@@ -94,20 +88,5 @@ public class BCU_click : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, 
         }
 
     }
-
-    public void OnPointerEnter(PointerEventData eventData)
-    {
-        //Debug.Log("pointer enter bcu");
-
-    }
-
-    public void OnPointerExit(PointerEventData eventData)
-    {
-        //Debug.Log("pointer exit bcu");
-
-    }
-
-
-
 }
 

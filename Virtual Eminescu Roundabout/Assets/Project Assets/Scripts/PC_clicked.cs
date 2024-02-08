@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class PC_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
+public class PC_clicked : MonoBehaviour,  IPointerClickHandler
 {
     private List<GameObject> allTreasures;
     [SerializeField]
@@ -18,7 +18,7 @@ public class PC_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler,
 
     private void Awake()
     {
-        Debug.Log("awake pc");
+        Debug.Log("PC AWAKE");
         allTreasures = new List<GameObject>(GameObject.FindGameObjectsWithTag("Treasure"));
         if (dynamicInfoPanel != null)
         {
@@ -26,16 +26,15 @@ public class PC_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler,
         }
     }
 
-    public void OnPointerDown(PointerEventData eventData)
-    {
-    }
 
-    public void OnPointerUp(PointerEventData eventData)
+    private void OnMouseUpAsButton()
     {
+        Debug.Log("PC CLICKED!!!");
     }
 
     public void OnPointerClick(PointerEventData eventData)
     {
+        Debug.Log("pointer CLICK pc");
         CheckBearIsCollected();
 
     }
@@ -59,7 +58,7 @@ public class PC_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler,
 
     private void CheckBearIsCollected()
     {
-        Debug.Log("I'm in CheckBearIsCollected");
+        //Debug.Log("I'm in CheckBearIsCollected");
         GameObject bear = getPCTreasure();
 
         if (bear)
@@ -86,16 +85,6 @@ public class PC_clicked : MonoBehaviour, IPointerDownHandler, IPointerUpHandler,
         {
             infoPanelScript.UpdatePanel(PCbuildingData);
         }
-
-    }
-
-    public void OnPointerEnter(PointerEventData eventData)
-    {
-
-    }
-
-    public void OnPointerExit(PointerEventData eventData)
-    {
 
     }
 

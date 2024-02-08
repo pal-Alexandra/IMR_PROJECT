@@ -16,6 +16,7 @@ public class BuildingInfoPanel : MonoBehaviour
     private AudioClip buildingAudioClip;
     [SerializeField] 
     private Button speakButton;
+    private bool isAudioPlaying = false;
 
     private AudioSource audioSource;
 
@@ -41,8 +42,19 @@ public class BuildingInfoPanel : MonoBehaviour
         print("button pressed");
         if (buildingAudioClip != null && audioSource != null)
         {
-            print("button effect");
-            audioSource.PlayOneShot(buildingAudioClip);
+            if (isAudioPlaying)
+            {
+                print("stopping audio");
+                audioSource.Stop();
+                isAudioPlaying = false;
+            }
+            else
+            {
+                print("button effect. playing audio");
+                audioSource.PlayOneShot(buildingAudioClip);
+                isAudioPlaying = true;
+            }
+            
         }
     }
 }
