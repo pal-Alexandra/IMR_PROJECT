@@ -4,11 +4,6 @@ using UnityEngine.XR.Interaction.Toolkit;
 public class TreasurePickupEvent : MonoBehaviour
 {
     private XRGrabInteractable grabInteractable;
-    private AudioSource audioSource;
-
-    [SerializeField]
-    private AudioClip pickupSound;
-
 
     private void Start()
     {
@@ -18,7 +13,6 @@ public class TreasurePickupEvent : MonoBehaviour
     private void Awake()
     {
         grabInteractable = GetComponent<XRGrabInteractable>();
-        audioSource = GetComponent<AudioSource>();
     }
 
     private void OnEnable()
@@ -35,7 +29,6 @@ public class TreasurePickupEvent : MonoBehaviour
 
     private void OnPickup(SelectEnterEventArgs args)
     {
-        PlaySound(pickupSound);
         gameObject.SetActive(false);
         Debug.Log("Object picked up");
     }
@@ -43,13 +36,5 @@ public class TreasurePickupEvent : MonoBehaviour
     private void OnDrop(SelectExitEventArgs args)
     {
         Debug.Log("Object dropped");
-    }
-
-    private void PlaySound(AudioClip clip)
-    {
-        if (clip != null && audioSource != null)
-        {
-            audioSource.PlayOneShot(clip);
-        }
     }
 }

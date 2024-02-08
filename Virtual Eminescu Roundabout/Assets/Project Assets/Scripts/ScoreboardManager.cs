@@ -7,6 +7,8 @@ public class ScoreboardManager : MonoBehaviour
     private ProgressPanel progressPanelScript;
     private BuildingInfoPanel infoPanelScript;
 
+    private AudioSource audioSource;
+
     [SerializeField]
     private ProgressImages progressImages;
 
@@ -25,8 +27,13 @@ public class ScoreboardManager : MonoBehaviour
     [SerializeField]
     private BuildingData StatuebuildingData;
 
+    [SerializeField]
+    private AudioClip pickupSound;
+
+
     private void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         allTreasures = new List<GameObject>(GameObject.FindGameObjectsWithTag("Treasure"));
         if (progressPanel != null)
         {
@@ -53,6 +60,7 @@ public class ScoreboardManager : MonoBehaviour
                 string collectedTreasureName = allTreasures[i].name;
                 UpdatePanels(collectedTreasureName);
                 allTreasures.RemoveAt(i);
+                PlaySound(pickupSound);
             }
         }
     }
@@ -107,6 +115,14 @@ public class ScoreboardManager : MonoBehaviour
                 return CCSbuildingData;
             default:
                 return null;
+        }
+    }
+
+    private void PlaySound(AudioClip clip)
+    {
+        if (clip != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(clip);
         }
     }
 }
