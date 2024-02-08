@@ -5,11 +5,6 @@ public class TreasurePickupEvent : MonoBehaviour
 {
     private XRGrabInteractable grabInteractable;
 
-    private void Start()
-    {
-        XRBaseInteractable interactable = GetComponent<XRBaseInteractable>();
-    }
-
     private void Awake()
     {
         grabInteractable = GetComponent<XRGrabInteractable>();

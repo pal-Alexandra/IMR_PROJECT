@@ -20,7 +20,6 @@ public class BuildingInfoPanel : MonoBehaviour
 
     private AudioSource audioSource;
 
-
     public void UpdatePanel(BuildingData buildingData)
     {
         currentBuildingData = buildingData;

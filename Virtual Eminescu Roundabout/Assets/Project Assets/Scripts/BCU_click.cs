@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 using static Unity.IO.LowLevel.Unsafe.AsyncReadManagerMetrics;
 using UnityEngine.XR.Interaction.Toolkit;
 
-public class BCU_click : MonoBehaviour, IPointerClickHandler
+public class BCU_click : MonoBehaviour
 {
 
     private List<GameObject> allTreasures;
@@ -18,27 +18,41 @@ public class BCU_click : MonoBehaviour, IPointerClickHandler
     [SerializeField]
     private BuildingData BCUbuildingData;
 
-    private XRGrabInteractable grabInteractable;
+    private XRSimpleInteractable simpleInteractable;
 
     private void Awake()
     {
+        simpleInteractable = GetComponent<XRSimpleInteractable>();
         //Debug.Log("awake from bcu_click");
         allTreasures = new List<GameObject>(GameObject.FindGameObjectsWithTag("Treasure"));
         if (dynamicInfoPanel != null)
         {
             infoPanelScript = dynamicInfoPanel.GetComponent<BuildingInfoPanel>();
         }
-
-
     }
 
-    public void OnPointerClick(PointerEventData eventData)
+    private void OnEnable()
+    {
+        simpleInteractable.selectEntered.AddListener(OnPickup);
+        simpleInteractable.selectExited.AddListener(OnDrop);
+    }
+
+    private void OnDisable()
+    {
+        simpleInteractable.selectEntered.RemoveListener(OnPickup);
+        simpleInteractable.selectExited.RemoveListener(OnDrop);
+    }
+
+    private void OnPickup(SelectEnterEventArgs args)
     {
         Debug.Log("pointer CLICK bcu");
         CheckBookIsCollected();
-
     }
 
+    private void OnDrop(SelectExitEventArgs args)
+    {
+        Debug.Log("Object dropped");
+    }
 
     private GameObject getBCUTreasure()
     {
