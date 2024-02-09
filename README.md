@@ -126,6 +126,8 @@ In this week:
 
 :smile: Implemented the entire logic for the settings panel, now you can switch between all settings (Weather, Time of day, Season) and also change the volume of the entire game
 
+:smile: Attempted to use HDRP and it didn't work :(
+
 :smile: Now the info panel appears when you click on a building if the object is collected. A sound is played if successful and a different one if the treasure isn't collected yet
 
 :smile: Added the bus station in the Eminescu, added umbrellas on the Lapusneanu Street (just like in real life)
